@@ -16,8 +16,7 @@ const users = [
   "kindiekritz",
   "oplatiinum",
   "waltert_",
-  "wise_studio",
-  "wyomingwyatt"
+  "wise_studio"
 ];
 const clientID = "p320b4t8047u5zwtezbkyxgmd589ed";
 
