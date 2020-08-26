@@ -13,7 +13,6 @@ const users = [
   "goldenalpharex",
   "hiyazcool",
   "jellybeen60",
-  "kindiekritz",
   "oplatiinum",
   "waltert_",
   "wise_studio"
